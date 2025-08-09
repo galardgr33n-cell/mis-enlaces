@@ -56,11 +56,11 @@
 <body>
   <h1>🌟 Mis Redes 🌟</h1>
   <div class="links">
-    <a class="link facebook" href="[https://facebook.com/GalardGr33n](https://www.facebook.com/profile.php?id=61568976388699)" target="_blank">📘 Facebook</a>
-    <a class="link youtube" href="https://youtube.com/GalardGr33n" target="_blank">📺 YouTube</a>
-    <a class="link instagram" href="https://instagram.com/GalardGr33n" target="_blank">📸 Instagram</a>
-    <a class="link spotify" href="<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/11XEPyDlbUvOsW4PhaGBsS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    <a class="link twitter" href="https://x.com/GalardGr33n" target="_blank">🐦 X (Twitter)</a>
+    <a class="link facebook" href="https://www.facebook.com/profile.php?id=61568976388699&locale=es_LA" target="_blank">📘 Facebook</a>
+    <a class="link youtube" href="https://www.youtube.com/@GalardGr33n" target="_blank">📺 YouTube</a>
+    <a class="link instagram" href="https://instagram.com/TU_USUARIO" target="_blank">📸 Instagram</a>
+    <a class="link spotify" href="https://open.spotify.com/show/11XEPyDlbUvOsW4PhaGBsS?si=b9ab4f6aff8d46b1" target="_blank">🎵 Spotify</a>
+    <a class="link twitter" href="https://x.com/TU_USUARIO" target="_blank">🐦 X (Twitter)</a>
   </div>
 </body>
 </html>
