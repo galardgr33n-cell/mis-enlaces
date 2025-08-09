@@ -58,7 +58,7 @@
   <div class="links">
     <a class="link facebook" href="https://www.facebook.com/profile.php?id=61568976388699" target="_blank">📘 Facebook</a>
     <a class="link youtube" href="https://www.youtube.com/@GalardGr33n" target="_blank">📺 YouTube</a>
-    <a class="link instagram" href="https://instagram.com/GalardGr33n" target="_blank">📸 Instagram</a>
+    <a class="link instagram" href="https://instagram.com/galardgr33n" target="_blank">📸 Instagram</a>
     <a class="link spotify" href="https://open.spotify.com/show/11XEPyDlbUvOsW4PhaGBsS?si=b9ab4f6aff8d46b1" target="_blank">🎵 Spotify</a>
     <a class="link twitter" href="https://x.com/GalardGr33n" target="_blank">🐦 X (Twitter)</a>
   </div>
