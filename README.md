@@ -56,7 +56,7 @@
 <body>
   <h1>🌟 Mis Redes 🌟</h1>
   <div class="links">
-    <a class="link facebook" href="https://www.facebook.com/profile.php?id=61568976388699&locale=es_LA" target="_blank">📘 Facebook</a>
+    <a class="link facebook" href="https://www.facebook.com/profile.php?id=61568976388699" target="_blank">📘 Facebook</a>
     <a class="link youtube" href="https://www.youtube.com/@GalardGr33n" target="_blank">📺 YouTube</a>
     <a class="link instagram" href="https://instagram.com/TU_USUARIO" target="_blank">📸 Instagram</a>
     <a class="link spotify" href="https://open.spotify.com/show/11XEPyDlbUvOsW4PhaGBsS?si=b9ab4f6aff8d46b1" target="_blank">🎵 Spotify</a>
