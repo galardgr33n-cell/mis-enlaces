@@ -59,7 +59,7 @@
     <a class="link facebook" href="[https://facebook.com/GalardGr33n](https://www.facebook.com/profile.php?id=61568976388699)" target="_blank">📘 Facebook</a>
     <a class="link youtube" href="https://youtube.com/GalardGr33n" target="_blank">📺 YouTube</a>
     <a class="link instagram" href="https://instagram.com/GalardGr33n" target="_blank">📸 Instagram</a>
-    <a class="link spotify" href="https://open.spotify.com/user/GalardGr33n" target="_blank">🎵 Spotify</a>
+    <a class="link spotify" href="<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/11XEPyDlbUvOsW4PhaGBsS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     <a class="link twitter" href="https://x.com/GalardGr33n" target="_blank">🐦 X (Twitter)</a>
   </div>
 </body>
